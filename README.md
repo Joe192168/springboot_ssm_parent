@@ -1,1 +1,1 @@
-# springboot_ssm_parent
+# 垂直拆分 web 项目
